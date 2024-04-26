@@ -19,7 +19,7 @@ It does not include any functionality for processing GNSS data in order to estim
 
 For more details see:
   
-* `GnssMapper github repository <https://github.com/Indicative-Data-Science/gnssmapper>`__
+* `GnssMapper github repository <https://github.com/GDSGlasgow/gnssmapper>`__
 * `GnssMapper documentation <https://gnssmapper.readthedocs.io/>`__
 
 Requirements
@@ -50,7 +50,7 @@ Distribution are available from the Python Package Index
 
 Get in touch
 ============
-Report bugs, suggest features or view the source code at https://github.com/Indicative-Data-Science/gnssmapper.
+Report bugs, suggest features or view the source code at https://github.com/GDSGlasgow/gnssmapper.
 
 Examples
 ========
